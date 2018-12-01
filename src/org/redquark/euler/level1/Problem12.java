@@ -18,7 +18,7 @@
  */
 
 
-package org.redquark.euler;
+package org.redquark.euler.level1;
 
 public class Problem12 {
 

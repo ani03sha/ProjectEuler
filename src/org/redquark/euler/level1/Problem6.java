@@ -11,7 +11,7 @@
  */
 
 
-package org.redquark.euler;
+package org.redquark.euler.level1;
 
 import java.util.Scanner;
 
