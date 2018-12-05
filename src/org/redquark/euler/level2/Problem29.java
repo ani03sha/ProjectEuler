@@ -28,7 +28,7 @@ public class Problem29 {
 
         for (int i = 2; i <= limit; i++) {
             for (int j = 2; j <= limit; j++) {
-                powers.add(new BigInteger(i + "").pow(j));
+                powers.add(BigInteger.valueOf(i).pow(j));
             }
         }
         System.out.println(powers.size());
