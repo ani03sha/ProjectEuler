@@ -1,2 +1,2 @@
 # ProjectEuler
-Project Euler problems. 
+Project Euler problems. This repository contains solutions of Project Euler in Java.
